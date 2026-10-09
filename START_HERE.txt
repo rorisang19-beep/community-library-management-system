@@ -1,0 +1,16 @@
+COMMUNITY LIBRARY MANAGEMENT SYSTEM
+
+HOW TO RUN
+1. Extract this ZIP.
+2. Open the extracted Community_Library_Management_System folder in VS Code.
+3. Choose Terminal > New Terminal.
+4. Run: npm install
+5. Then run: npm run dev
+6. Open the address printed in the terminal, usually http://localhost:5173
+
+DEMO LOGIN
+Membership ID: ADMIN001
+Password: admin123
+
+The project includes React, React Router, hooks, book management, availability,
+user management, transactions, and localStorage browser persistence.
